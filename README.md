@@ -1,15 +1,10 @@
-# Bokeh
-
-# Bokeh App 1.0
-
+# Bokeh.
 > 다양한 해답을 랜덤하게 보여주는 앱
 > 
-
 ## What is it ?
 
 <aside>
 💡 사용자는 고민한 것을 생각하며 화면을 터치하면 해답을 얻어요.
-
 </aside>
 
 ## 앱 정보
@@ -19,6 +14,8 @@ iOS 16+
 iPad 16+
 
 macOS 미정
+
+## Update Release.
 
 ## 사용하는 기술
 
