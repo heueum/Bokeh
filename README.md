@@ -36,5 +36,5 @@
 
 
 ### 개인정보 처리방침
-[개인정보 처리방침](Documents/개인정보처리방침.md)
+[개인정보 처리방침](Documents/개인정보처리방침.md)   
 Copyright © 2024 Team Heueum. All rights reserved.
