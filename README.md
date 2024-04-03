@@ -20,11 +20,10 @@
 ### 사용 가능한  OS
 ##### iOS 16+
 
-***
 ### Update Release.
 - 1.0.0
-***
 
+***
 ### 사용 기술 및 라이브러리
 > #### Swift - ✅
 > >[Swift - Apple Developer](https://developer.apple.com/kr/swift/)
@@ -34,10 +33,10 @@
 >>[swift-composable-architecture readme Korean translation](https://gist.github.com/Achoo-kr/5d8936d12e71028fcc4a7c5e078ca038)
 >#### Tuist　- ⚠️
 >> [Tuist](https://tuist.io/)
+***
 
 
-
-## 개인정보 처리방침
+### 개인정보 처리방침
 [개인정보 처리방침](Documents/개인정보처리방침.md)
  
 ***
