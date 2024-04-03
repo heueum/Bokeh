@@ -38,7 +38,7 @@
 
 
 ## 개인정보 처리방침
-[개인정보 처리방침](https://www.notion.so/6d82bac0a6a54c11ab72ea2917fd0573?pvs=21)
+[개인정보 처리방침](Documents/개인정보처리방침.md)
  
 ***
 
