@@ -3,7 +3,7 @@
 편하게 해답을 얻어보세요.
 
 
-## Team, Heueum 💭
+### Team, Heueum 💭
 **Glen** | **angmom** |
 :---:|:---:|
 <img width="170" alt="image" src="Assets/glen.JPG"> | <img width="170" alt="image" src="Assets/angmom.JPG">
