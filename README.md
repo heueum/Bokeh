@@ -12,8 +12,7 @@
 
 ### 문의.
 > Get the help you need !
-✉️ teamheueum@gmail.com
-
+>> ✉️ teamheueum@gmail.com
 
 
 ***
@@ -26,19 +25,16 @@
 ***
 ### 사용 기술 및 라이브러리
 > #### Swift - ✅
-> >[Swift - Apple Developer](https://developer.apple.com/kr/swift/)
+>➡️ [Swift - Apple Developer](https://developer.apple.com/kr/swift/)
 > #### SwiftUI - ✅
->>[SwiftUI - Apple Developer](https://developer.apple.com/kr/xcode/swiftui/)
+>➡️ [SwiftUI - Apple Developer](https://developer.apple.com/kr/xcode/swiftui/)
 > #### TCA (The Composable Architecture) - ⚠️ 
->>[swift-composable-architecture readme Korean translation](https://gist.github.com/Achoo-kr/5d8936d12e71028fcc4a7c5e078ca038)
+>➡️ [swift-composable-architecture readme Korean translation](https://gist.github.com/Achoo-kr/5d8936d12e71028fcc4a7c5e078ca038)
 >#### Tuist　- ⚠️
->> [Tuist](https://tuist.io/)
+>➡️ [Tuist](https://tuist.io/)
 ***
 
 
 ### 개인정보 처리방침
 [개인정보 처리방침](Documents/개인정보처리방침.md)
- 
-***
-
 Copyright © 2024 Team Heueum. All rights reserved.
