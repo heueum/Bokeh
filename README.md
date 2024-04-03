@@ -1,42 +1,45 @@
 # Bokeh.
+안녕하세요, 일상에서 Bokeh 같은 생각과 고민.
+편하게 해답을 얻어보세요.
 
-## What is it ?
-> 다양한 해답을 랜덤하게 보여주는 앱
-</aside>
 
-## 앱 정보
+## Team, Heueum 💭
+**Glen** | **angmom** |
+:---:|:---:|
+<img width="170" alt="image" src="Assets/glen.JPG"> | <img width="170" alt="image" src="Assets/angmom.JPG">
+ iOS |  iOS |
+[@476c656e](https://github.com/476C656E) | [@lists24](https://github.com/lists24) |
 
-iOS 16+
-iPad 16+
+### 문의.
+> Get the help you need !
+✉️ teamheueum@gmail.com
 
-</aside>
 
-## Update Release.
-1.0.0
 
-## 사용하는 기술
+***
+### 사용 가능한  OS
+##### iOS 16+
 
-### Swift
+***
+### Update Release.
+- 1.0.0
+***
 
-[Swift - Apple Developer](https://developer.apple.com/kr/swift/)
+### 사용 기술 및 라이브러리
+> #### Swift - ✅
+> >[Swift - Apple Developer](https://developer.apple.com/kr/swift/)
+> #### SwiftUI - ✅
+>>[SwiftUI - Apple Developer](https://developer.apple.com/kr/xcode/swiftui/)
+> #### TCA (The Composable Architecture) - ⚠️ 
+>>[swift-composable-architecture readme Korean translation](https://gist.github.com/Achoo-kr/5d8936d12e71028fcc4a7c5e078ca038)
+>#### Tuist　- ⚠️
+>> [Tuist](https://tuist.io/)
 
-### SwiftUI
 
-[SwiftUI 개요 - Xcode - Apple Developer](https://developer.apple.com/kr/xcode/swiftui/)
 
-### TCA
-(**The Composable Architecture)**
-
-[swift-composable-architecture readme Korean translation](https://gist.github.com/Achoo-kr/5d8936d12e71028fcc4a7c5e078ca038)
-
-### Tuist
-
-[Tuist](https://tuist.io/)
-
-### Vapor
-
-[Vapor](https://vapor.codes/)
-
-[Info](https://www.notion.so/Info-51a5b3863caf450cbd01bda2b1bf8df3?pvs=21)
-
+## 개인정보 처리방침
 [개인정보 처리방침](https://www.notion.so/6d82bac0a6a54c11ab72ea2917fd0573?pvs=21)
+ 
+***
+
+Copyright © 2024 Team Heueum. All rights reserved.
