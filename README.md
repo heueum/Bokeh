@@ -11,8 +11,8 @@
 [@476c656e](https://github.com/476C656E) | [@lists24](https://github.com/lists24) |
 
 ### 문의.
-> Get the help you need !
->> ✉️ teamheueum@gmail.com
+> Get the help you need !   
+> ✉️ teamheueum@gmail.com
 
 
 ***
